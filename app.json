@@ -4,11 +4,11 @@
     "slug": "goals",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/planning.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/track-goals.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#6a197d"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
